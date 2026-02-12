@@ -41,4 +41,14 @@ LinkedIn: www.linkedin.com/in/aldo-bojorquez
     <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white&style=flat-square"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&style=flat-square">
     <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-3776AB?logo=Python&logoColor=white&style=flat-square">
+<br>
 
+<br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Testing%20de%20Software-9cf?style=for-the-badge&logo=testing&logoColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Automatización%20de%20Pruebas-9cf?style=for-the-badge&logo=testing&logoColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Pruebas%20de%20API-9cf?style=for-the-badge&logo=testing&logoColor=black">
+<br>
+
+<p>
+    En el repositorio de mi portafolio se encuentran algunos proyectos relacionados con mis conocimientos y habilidades, así como también algunos proyectos personales que he realizado para seguir aprendiendo y mejorando mis habilidades en el área de QA.
+</p>
