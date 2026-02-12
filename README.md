@@ -1,45 +1,44 @@
-### Hi there 👋
+<h1>Hola soy Aldo Esteban Bojorquez Acevedo 👋</h1> 
 
-I am Swastik Baranwal from Delhi, India who is an Open Source and V Contributor, DevOps enthusiast, Ex Pokemon Gba Rom Hacker and Pixel Artist, loves Anime and Manga, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
+<p>
+  Soy un aspirante en Analista de Calidad de Software (QA), con grandes metas a cumplir a lo largo de mi camino, manejando de manera eficiente y con soltura tecnologías como JIRA para el   manejo de incidencias y Postman como plataforma para testeo de APIs.
+  Tengo conocimientos previos de programación dominando lenguajes de programación y con la facilidad de aprender de manera eficiente y rápida otros lenguajes actuales del mercado.
+  Estoy dispuesto a aprender de manera exponencial y seguir enriqueciéndome de conocimiento en este mundo de la tecnología, así poder aplicar lo aprendido en situaciones reales que         generen un impacto positivo no solo a mi trabajo si no a mi persona.
+</p>
 
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯
+<p>
+  Resaltando lo anterior como una de mis cualidades en mi desempeño laboral, la fácil compresión de las tecnologías, dado mis experiencias laborales anteriores tengo la facilidad de la palabra entre usuarios y compañeros de equipo, amoldando siempre la manera en laborar y tener una convivencia sana entre los mismos.
+  Soy Mexicano y esto no me cierra a querer tratar con personas de diferentes nacionalidades y poder aprender de ellos no solo de manera social si no de manera laboral ya que cada uno maneja una manera diferente de laborar.
+  Hablo español latino y tengo un nivel de ingles básico pero logrando comprender una conversación básica y comprender textos relacionados con TI.
+</p>
+<h4>Contacto</h4>
+Email: aldo_esteban19@hotmail.com |
+Teléfono: +52 9994554007 |
+LinkedIn: www.linkedin.com/in/aldo-bojorquez
 
-![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true)
+<h3>lenguajes de programación 🌐</h3>
 
+<br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-007399?logo=Java&logoColor=white&style=flat-square">
 
-### Programming Languages 🌐
+<br>
 
-- Know/Using
+<h3>Herramientas 🛠️</h3>
 
-| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">](https://vlang.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="28">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/)  |
-|---|---|---|---|---|---|
+<br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/JIRA-0052CC?logo=JIRA&logoColor=white&style=flat-square"> 
+    <img alt="Static Badge" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=flat-square">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white&style=flat-square">
 
-- Learning
+<br>
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
-|---|---|---|
+<h3>Aprendiendo</h3>
 
-### Tools 🛠️
+<br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white&style=flat-square"> 
+    <img alt="Static Badge" src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&style=flat-square">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-3776AB?logo=Python&logoColor=white&style=flat-square">
 
-- Know/Using
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="aseprite logo" width="24">](https://www.aseprite.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gimp.png" alt="gimp logo" width="24">](https://www.gimp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)| Windows Terminal | WSL | many more...
-|---|---|---|---|---|---|---|---|---|---|
-
-- Learning
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="26">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)| many more...
-|---|---|---|---|---|---|
-
-### Other Accounts 📫
-
-You can find and get touch with me on these accounts!
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
-|---|---|---|---|---|---|---|---|
-
----
-Credits: [Delta456](https://github.com/Delta456)
-
-Last Edited on: 30/08/2020
