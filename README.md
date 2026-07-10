@@ -12,9 +12,9 @@
   Hablo español latino y tengo un nivel de ingles básico pero logrando comprender una conversación básica y comprender textos relacionados con TI.
 </p>
 <h4>Contacto</h4>
-Email: aldo_esteban19@hotmail.com |
+Email: aldo.bojorquez.qa@gmail.com |
 Teléfono: +52 9994554007 |
-LinkedIn: www.linkedin.com/in/aldo-bojorquez
+LinkedIn: www.linkedin.com/in/aldo-bojorquez/
 
 <h3>lenguajes de programación 🌐</h3>
 
