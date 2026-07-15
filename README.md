@@ -22,7 +22,7 @@ Soy Ingeniero en Sistemas en transición a QA. Durante 8 años gestioné sistema
 
 ### 📫 Contacto
 **Email:** aldo.bojorquez.qa@gmail.com  
-**Mobiel:** +52 999 455 4007  
+**Mobile:** +52 999 455 4007  
 **LinkedIn:** [linkedin.com/in/aldo-bojorquez](https://www.linkedin.com/in/aldo-bojorquez/)
 
 ---
