@@ -27,3 +27,5 @@ Soy Ingeniero en Sistemas en transición a QA. Durante 8 años gestioné sistema
 
 ---
 **Portafolio:** Repos con prácticas de API Testing en Postman y plantillas de reportes de bugs. Construyendo mi camino en QA con bases sólidas de experiencia real.
+
+https://aldo-bojorquez.github.io/
