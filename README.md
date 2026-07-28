@@ -1,24 +1,23 @@
 ## 👋 Hola, soy Aldo Bojorquez | QA Engineer
 
-**Quality Assurance Engineer** con 8 años de experiencia resolviendo problemas técnicos y de usuarios finales. 
-📍 Mérida, Yucatán, México | Abierto a remoto LATAM/USA
-
 ### 🎯 Sobre mí
-Soy Ingeniero en Sistemas en transición a QA. Durante 8 años gestioné sistemas, incidencias y atención a usuarios en entornos de alta presión. Eso me dio un ojo clínico para detectar fallos antes de que escalen.
+**Quality Assurance Engineer** 8 años de experiencia resolviendo problemas técnicos en entornos de alta presión. Ingeniero en Sistemas de formación, especializado en detección temprana de fallos, análisis de logs y gestión de incidencias con cliente final.
+Combino empatía de usuario final, resolución bajo presión y comunicación técnica clara. Traduzco un "no sirve" en pasos reproducibles, severidad y evidencia.
+
 
 **Resultado reciente:** 92% en evaluación de Problem Solving de BCM - Assessment.  
-**Inglés:** Nivel básico, comprendiendo documentación técnica y conversaciones de trabajo. Mejorando diario.
+**Inglés:** Técnico, comprendiendo documentación técnica y conversaciones de trabajo (Mejora continua).
 
 ### 🛠️ Stack & Herramientas
 **QA & Testing:** `JIRA` `Postman` `API Testing` `Manual Testing` `Bug Reporting`  
 **Lenguajes:** `Python` `SQL` `JavaScript` `HTML/CSS`  
 **Experiencia previa:** `Soporte Nivel 2` `Análisis de logs` `Gestión de incidencias` `Trato con cliente`  
-**Aprendiendo:** `Selenium` `Cypress` `Automation Testing`
+**En Formación:** `Selenium` `Cypress (Formación)` `Automation Testing`
 
-### 💡 Por qué 8 años en otra área me hacen mejor QA
+### 💡 Mi diferenciador
 1. **Empatía con usuario final:** Sé qué duele cuando un sistema falla. No reporto bugs por reportar.
 2. **Resolución bajo presión:** 8 años atendiendo gente enojada. Un bug crítico no me asusta.
-3. **Comunicación:** Traduzco "no sirve" a casos de prueba reproducibles para devs.
+3. **Comunicación:** Traduzco "no sirve" a casos de prueba reproducibles para devs claras y con información detallada.
 
 ### 📫 Contacto
 **Email:** aldo.bojorquez.qa@gmail.com  
@@ -26,6 +25,6 @@ Soy Ingeniero en Sistemas en transición a QA. Durante 8 años gestioné sistema
 **LinkedIn:** [linkedin.com/in/aldo-bojorquez](https://www.linkedin.com/in/aldo-bojorquez/)
 
 ---
-**Portafolio:** Repos con prácticas de API Testing en Postman y plantillas de reportes de bugs. Construyendo mi camino en QA con bases sólidas de experiencia real.
+**Portafolio:** Repos con prácticas de API Testing en Postman y plantillas de reportes de bugs y casos de prueba documentados en JIRA.
 
 https://aldo-bojorquez.github.io/
