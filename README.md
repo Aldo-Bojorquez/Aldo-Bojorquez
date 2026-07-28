@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Aldo Bojorquez | QA Engineer
 
 ### 🎯 Sobre mí
-**Quality Assurance Engineer** 8 años de experiencia resolviendo problemas técnicos en entornos de alta presión. Ingeniero en Sistemas de formación, especializado en detección temprana de fallos, análisis de logs y gestión de incidencias con cliente final.
+**Quality Assurance Engineer** Ingeniero en Sistemas de formación, especializado en detección temprana de fallos, análisis de logs y gestión de incidencias con cliente final.
 Combino empatía de usuario final, resolución bajo presión y comunicación técnica clara. Traduzco un "no sirve" en pasos reproducibles, severidad y evidencia.
 
 
